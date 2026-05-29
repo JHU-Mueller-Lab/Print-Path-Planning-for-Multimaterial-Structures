@@ -1,0 +1,7 @@
+# Tested with Python 3.11.5
+# networkx is pinned: versions older than 3.1 may order edges differently at
+# even-degree vertices (path geometry differs, though total cost is unchanged).
+networkx==3.4.2
+numpy==1.25.2
+matplotlib==3.8.0
+scipy==1.11.3

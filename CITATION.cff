@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please consider citing both the software and the associated paper (currently under revision)."
+title: "Print Path Planning for Multimaterial Structures (RPP for MMPPP)"
+abstract: >-
+  tbd
+type: software
+authors:
+  - family-names: Li
+    given-names: Zefang
+    affiliation: "Johns Hopkins University"
+    email: zli299@jhu.edu
+  - family-names: Mueller
+    given-names: Jochen
+    affiliation: "Johns Hopkins University"
+    email: jochen@jhu.edu
+repository-code: "https://github.com/JHU-Mueller-Lab/Print-Path-Planning-for-Multimaterial-Structures"
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-29"
+keywords:
+  - Print Path Planning
+  - Rural Postman Problem
+  - Material Extrusion
+  - Multimaterial Additive Manufacturing
+  - Graph-Based Planning
+  - Architected Lattices
+  - Printhead Co-Design
+preferred-citation:
+  type: article
+  title: "Print Path Planning and Nozzle Offset Design for Multimaterial Lattices"
+  authors:
+    - family-names: Li
+      given-names: Zefang
+      affiliation: "Johns Hopkins University"
+    - family-names: Mueller
+      given-names: Jochen
+      affiliation: "Johns Hopkins University"
+  year: 2026
+  status: submitted
+  notes: >-
+    Manuscript currently under revision (as of 2026). Citation details
+    (journal, volume, DOI) will be updated here upon publication.

@@ -1,0 +1,15 @@
+# Generated output (figures, toolpath data, G-code, visualizations)
+RPP_output/
+RPP_output*/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
