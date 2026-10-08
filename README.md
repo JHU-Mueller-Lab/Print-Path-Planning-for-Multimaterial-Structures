@@ -200,9 +200,6 @@ This software accompanies a manuscript that is **currently under revision, to be
 
 > Li, Z., & Mueller, J. (2026). Print path planning and nozzle offset design for multimaterial lattices. Virtual and Physical Prototyping, 21(1). https://doi.org/10.1080/17452759.2026.2694273
 
-
-Full publication details (journal, volume, DOI) will be added here once available. GitHub's "Cite this repository" button uses [`CITATION.cff`](CITATION.cff).
-
 ## License
 
 Released under the [MIT License](LICENSE).
