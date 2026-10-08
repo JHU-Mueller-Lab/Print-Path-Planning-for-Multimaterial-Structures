@@ -6,7 +6,7 @@ A **Rural Postman Problem (RPP)** solver for the **Multimaterial Printing Path P
   <img src="docs/images/rpp_solution.svg" alt="Planned RPP toolpath" width="420">
 </p>
 
-> **Associated paper:** *Print Path Planning and Nozzle Offset Design for Multimaterial Lattices*, Z. Li and J. Mueller. **Manuscript under revision (2026)** — citation details will be updated here upon publication. See [How to cite](#how-to-cite).
+> **Associated paper:** *Print Path Planning and Nozzle Offset Design for Multimaterial Lattices*, Z. Li and J. Mueller. [Paper](https://doi.org/10.1080/17452759.2026.2694273)
 
 ---
 
@@ -198,7 +198,8 @@ The `ToolpathVisualizer` then computes timing (using the print/travel speeds and
 
 This software accompanies a manuscript that is **currently under revision, to be updated soon**:
 
-> Z. Li and J. Mueller. *Print Path Planning and Nozzle Offset Design for Multimaterial Lattices.* Johns Hopkins University, 2026. Under revision.
+> Li, Z., & Mueller, J. (2026). Print path planning and nozzle offset design for multimaterial lattices. Virtual and Physical Prototyping, 21(1). https://doi.org/10.1080/17452759.2026.2694273
+
 
 Full publication details (journal, volume, DOI) will be added here once available. GitHub's "Cite this repository" button uses [`CITATION.cff`](CITATION.cff).
 
