@@ -36,7 +36,5 @@ preferred-citation:
       given-names: Jochen
       affiliation: "Johns Hopkins University"
   year: 2026
-  status: submitted
-  notes: >-
-    Manuscript currently under revision (as of 2026). Citation details
-    (journal, volume, DOI) will be updated here upon publication.
+  citation: Li, Z., & Mueller, J. (2026). Print path planning and nozzle offset design for multimaterial lattices. Virtual and Physical Prototyping, 21(1). https://doi.org/10.1080/17452759.2026.2694273
+
